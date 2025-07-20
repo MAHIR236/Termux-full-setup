@@ -1,1 +1,1 @@
-# Termux-full-setup
+# Termux-setup-full
